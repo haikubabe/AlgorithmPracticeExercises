@@ -1,0 +1,144 @@
+Power Consumption: 17 Max: 17 Capacity: 59
+Power Consumption: 0 Max: 17 Capacity: 59
+Power Consumption: 17 Max: 17 Capacity: 59
+Power Consumption: 0 Max: 17 Capacity: 59
+Power Consumption: 17 Max: 17 Capacity: 59
+Power Consumption: 0 Max: 17 Capacity: 59
+Power Consumption: 17 Max: 17 Capacity: 59
+Power Consumption: 0 Max: 17 Capacity: 59
+Power Consumption: 17 Max: 17 Capacity: 59
+Power Consumption: 0 Max: 17 Capacity: 59
+Power Consumption: 17 Max: 17 Capacity: 59
+Power Consumption: 0 Max: 17 Capacity: 59
+Power Consumption: 17 Max: 17 Capacity: 59
+Power Consumption: 0 Max: 17 Capacity: 59
+Power Consumption: 17 Max: 17 Capacity: 59
+Power Consumption: 0 Max: 17 Capacity: 59
+Power Consumption: 17 Max: 17 Capacity: 59
+Power Consumption: 0 Max: 17 Capacity: 59
+Power Consumption: 17 Max: 17 Capacity: 59
+Power Consumption: 0 Max: 17 Capacity: 59
+Sequence 1
+Fuse was not blown.
+Maximal power consumption was 17 amperes.
+
+Power Consumption: 20 Max: 20 Capacity: 82
+Power Consumption: 21 Max: 21 Capacity: 82
+Power Consumption: 24 Max: 24 Capacity: 82
+Power Consumption: 21 Max: 24 Capacity: 82
+Power Consumption: 41 Max: 41 Capacity: 82
+Power Consumption: 40 Max: 41 Capacity: 82
+Power Consumption: 20 Max: 41 Capacity: 82
+Power Consumption: 23 Max: 41 Capacity: 82
+Sequence 2
+Fuse was not blown.
+Maximal power consumption was 41 amperes.
+
+Power Consumption: 7 Max: 7 Capacity: 93
+Power Consumption: 8 Max: 8 Capacity: 93
+Power Consumption: 26 Max: 26 Capacity: 93
+Power Consumption: 35 Max: 35 Capacity: 93
+Power Consumption: 34 Max: 35 Capacity: 93
+Power Consumption: 25 Max: 35 Capacity: 93
+Power Consumption: 26 Max: 35 Capacity: 93
+Power Consumption: 34 Max: 35 Capacity: 93
+Power Consumption: 26 Max: 35 Capacity: 93
+Power Consumption: 39 Max: 39 Capacity: 93
+Power Consumption: 47 Max: 47 Capacity: 93
+Power Consumption: 67 Max: 67 Capacity: 93
+Power Consumption: 77 Max: 77 Capacity: 93
+Power Consumption: 59 Max: 77 Capacity: 93
+Sequence 3
+Fuse was not blown.
+Maximal power consumption was 77 amperes.
+
+Power Consumption: 2 Max: 2 Capacity: 65
+Power Consumption: 16 Max: 16 Capacity: 65
+Power Consumption: 23 Max: 23 Capacity: 65
+Power Consumption: 9 Max: 23 Capacity: 65
+Power Consumption: 7 Max: 23 Capacity: 65
+Sequence 4
+Fuse was not blown.
+Maximal power consumption was 23 amperes.
+
+Power Consumption: 9 Max: 9 Capacity: 72
+Power Consumption: 19 Max: 19 Capacity: 72
+Power Consumption: 32 Max: 32 Capacity: 72
+Power Consumption: 51 Max: 51 Capacity: 72
+Power Consumption: 41 Max: 51 Capacity: 72
+Power Consumption: 32 Max: 51 Capacity: 72
+Power Consumption: 44 Max: 51 Capacity: 72
+Power Consumption: 31 Max: 51 Capacity: 72
+Power Consumption: 40 Max: 51 Capacity: 72
+Power Consumption: 55 Max: 55 Capacity: 72
+Power Consumption: 65 Max: 65 Capacity: 72
+Power Consumption: 46 Max: 65 Capacity: 72
+Power Consumption: 34 Max: 65 Capacity: 72
+Power Consumption: 24 Max: 65 Capacity: 72
+Power Consumption: 9 Max: 65 Capacity: 72
+Power Consumption: 0 Max: 65 Capacity: 72
+Power Consumption: 9 Max: 65 Capacity: 72
+Power Consumption: 28 Max: 65 Capacity: 72
+Power Consumption: 38 Max: 65 Capacity: 72
+Power Consumption: 19 Max: 65 Capacity: 72
+Sequence 5
+Fuse was not blown.
+Maximal power consumption was 65 amperes.
+
+Power Consumption: 3 Max: 3 Capacity: 67
+Power Consumption: 11 Max: 11 Capacity: 67
+Power Consumption: 21 Max: 21 Capacity: 67
+Power Consumption: 39 Max: 39 Capacity: 67
+Power Consumption: 51 Max: 51 Capacity: 67
+Power Consumption: 59 Max: 59 Capacity: 67
+Power Consumption: 66 Max: 66 Capacity: 67
+Sequence 6
+Fuse was not blown.
+Maximal power consumption was 66 amperes.
+
+Power Consumption: 1 Max: 1 Capacity: 18
+Power Consumption: 5 Max: 5 Capacity: 18
+Power Consumption: 1 Max: 5 Capacity: 18
+Sequence 7
+Fuse was blown.
+
+Sequence 8
+Fuse was blown.
+
+Sequence 9
+Fuse was blown.
+
+Power Consumption: 7 Max: 7 Capacity: 10
+Power Consumption: 10 Max: 10 Capacity: 10
+Power Consumption: 3 Max: 10 Capacity: 10
+Power Consumption: 10 Max: 10 Capacity: 10
+Power Consumption: 7 Max: 10 Capacity: 10
+Power Consumption: 0 Max: 10 Capacity: 10
+Power Consumption: 7 Max: 10 Capacity: 10
+Power Consumption: 10 Max: 10 Capacity: 10
+Power Consumption: 7 Max: 10 Capacity: 10
+Power Consumption: 10 Max: 10 Capacity: 10
+Power Consumption: 3 Max: 10 Capacity: 10
+Power Consumption: 0 Max: 10 Capacity: 10
+Power Consumption: 3 Max: 10 Capacity: 10
+Power Consumption: 10 Max: 10 Capacity: 10
+Power Consumption: 7 Max: 10 Capacity: 10
+Power Consumption: 10 Max: 10 Capacity: 10
+Power Consumption: 7 Max: 10 Capacity: 10
+Sequence 10
+Fuse was not blown.
+Maximal power consumption was 10 amperes.
+
+Sequence 11
+Fuse was blown.
+
+Power Consumption: 1 Max: 1 Capacity: 1
+Sequence 12
+Fuse was not blown.
+Maximal power consumption was 1 amperes.
+
+Power Consumption: 0 Max: 0 Capacity: 1
+Sequence 13
+Fuse was not blown.
+Maximal power consumption was 0 amperes.
+
